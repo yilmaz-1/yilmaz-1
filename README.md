@@ -40,8 +40,8 @@
 ### 🤖 Machine Learning Projects
 
 - **Diabetes Prediction** -   
-- **Telecom-Churn-Prediction-Learning-ML**  
-- **Airbnb Prediction_ML**  
+- **Telecom Churn Prediction**  
+- **Airbnb Prediction**  
 - **U.S. Farm Biogas Prediction Dairy Cow Farms Public**
 - **U.S. Farms Biogas Prediction Livestock**
 
